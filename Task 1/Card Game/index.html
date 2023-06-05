@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Карткова гра</title>
+  <style>
+    .card {
+      display: inline-block;
+      width: 60px;
+      height: 30px;
+      border: 1px solid black;
+      border-radius: 5px;
+      text-align: center;
+      margin: 10px;
+    }
+    .heart {
+      color: red;
+    }
+    .diamond {
+      color: red;
+    }
+    .club {
+      color: black;
+    }
+    .spade {
+      color: black;
+    }
+    .suit-icon {
+      font-size: 20px;
+      margin-top: 5px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Карткова гра</h1>
+
+  <h2>Player 1:</h2>
+  <div class="card club">2<span class="suit-icon">♣</span></div>
+  <div class="card heart">9<span class="suit-icon">♥</span></div>
+  <div class="card heart">6<span class="suit-icon">♥</span></div>
+  <div class="card diamond">A<span class="suit-icon">♦</span></div>
+  <div class="card spade">Q<span class="suit-icon">♠</span></div>
+  <div class="card club">J<span class="suit-icon">♣</span></div>
+
+  <h2>Player 2:</h2>
+  <div class="card heart">3<span class="suit-icon">♥</span></div>
+  <div class="card club">Т<span class="suit-icon">♣</span></div>
+  <div class="card club">10<span class="suit-icon">♣</span></div>
+  <div class="card diamond">К<span class="suit-icon">♦</span></div>
+  <div class="card spade">8<span class="suit-icon">♠</span></div>
+  <div class="card heart">3<span class="suit-icon">♥</span></div>
+</body>
+</html>
