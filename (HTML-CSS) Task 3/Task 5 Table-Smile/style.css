@@ -1,0 +1,26 @@
+table {
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+
+td {
+    border: 1px solid black;
+    width: 90px;
+    height: 25px;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.olive {
+    background-color: darkolivegreen;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.purple {
+    background-color: darkorchid;
+}

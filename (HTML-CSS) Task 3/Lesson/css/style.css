@@ -1,0 +1,45 @@
+body {
+	margin-top: 150px;
+	margin-left: 150px;
+}
+
+.arrow {
+	height: 50px;
+	width: 60px;
+	border: 10px solid black;
+	border-radius: 10px;
+}
+
+.top {
+	clear: both;
+	float: left;
+	margin-left: 240px;
+	margin-bottom: 20px;
+}
+.left {
+	float: left;
+	clear: both;
+	margin-right: 20px;
+	margin-top: 80px;
+}
+
+.bmw {
+	height: 200px;
+	width: 300px;
+	border: 10px solid black;
+	border-radius: 30px;
+	float: left;
+}
+
+.right {
+	float: left;
+	margin-top: 80px;
+	margin-left: 20px;
+}
+
+.bottom {
+	float: left;
+	clear: both;
+	margin-top: 20px;
+	margin-left: 240px;
+}

@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+}
+
+div {
+    background-image: url('https://wallpapers.com/images/hd/water-color-full-hd-drops-h3pi5yxq4ftcar75.jpg');
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+table {
+    color: aquamarine;
+    border-spacing: 0;
+}
+
+table td {
+    border: 1px solid gray;
+    text-align: center;
+    height: 40px;
+    width: 140px;
+}
+
+tr:hover {
+    cursor: pointer;
+}
+
+.red:hover {
+    background-color: #ff0000;
+}
+
+.green:hover {
+    background-color: #00ff00;
+}
+
+.blue:hover {
+    background-color: #0000ff;
+}
+
+.cyan:hover {
+    background-color: #00ffff;
+}
+
+.magenta:hover {
+    background-color: #ff00ff;
+}
+
+.yellow:hover {
+    background-color: #ffff00;
+}
+
+.black:hover {
+    background-color: #000000;
+    color: white;
+}
+
+.white:hover {
+    background-color: #ffffff;
+}

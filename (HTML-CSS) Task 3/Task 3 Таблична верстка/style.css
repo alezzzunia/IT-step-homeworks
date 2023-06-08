@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+}
+
+p {
+    margin: 0;
+
+}
+
+table {
+    margin: 0;
+    width: 100%;
+    margin: 0 auto;
+    position: relative;
+}
+
+thead, tfoot {
+    color: white;
+    background-color: lightsteelblue;
+    height: 40px;
+}
+
+thead {
+    text-align: center;
+    font-size: 25px;
+}
+
+tbody td{
+   text-align: justify;
+   width: 50%;
+   padding: 30px 50px;
+}
+
+tbody h1 {
+    text-align: center;
+}
+
+tbody td img {
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+
+tfoot {
+    text-align: right;
+}
+
+tfoot td {
+    padding-right: 20%;
+}
