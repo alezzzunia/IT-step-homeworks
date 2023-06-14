@@ -8,7 +8,7 @@ This repository contains all homeworks from <b>IT Step Academy, course Front-End
 <br>
 <h1>All right are reserved.</h1>
 <br>
-Use it only for information. Highly not reccomend to copy and paste it in your homework. 
+Use this for reference only. Highly not reccomend to copy and paste it in your homework. 
 <br>
 <br>
 <b>Think your own head!!!</b>
