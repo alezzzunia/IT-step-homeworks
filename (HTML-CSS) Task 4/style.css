@@ -1,0 +1,55 @@
+/* Index.html */
+body {
+    margin: 5vh auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div {
+    text-align: center;
+    margin: 0 5vw;
+}
+
+div img{
+    width: 30vw;
+}
+
+.moto {
+    width: 20vw;
+}
+
+div a {
+    text-decoration: none;
+    color: black;
+}
+
+.fa-solid {
+    font-size: 3vw;
+}
+
+/* Motoallphotos.html and Autoallphotos.html*/
+
+.back {
+    margin-bottom: 10vh;
+}
+
+.photos {
+    display: flex;
+}
+
+.photos img {
+    margin: 0 3vw;
+    width: 20vw;
+}
+
+/* Окремі фотки мото і авто */
+
+.middle {
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+}
+
+.middle img {
+    margin: 0 3vw;
+}
